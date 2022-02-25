@@ -1,0 +1,5 @@
+export const GET_TABLE_REQUEST = "GET_TABLE_REQUEST";
+export const GET_TABLE_SUCCESS = "GET_TABLE_SUCCESS";
+export const GET_TABLE_FAILURE = "GET_TABLE_FAILURE";
+
+export const SET_FILTER = "SET_FILTER";
